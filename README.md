@@ -118,10 +118,10 @@ The Power BI dashboard created from this project provides insights into various 
 ## Conclusion
 This Power BI project demonstrates the comprehensive process of extracting, modeling, and analyzing sales data from the Adventure Works database. Key points include:
 
-- **Data Source**: Utilized the Adventure Works OLTP database with Direct Query.
-- **Data Extraction**: Retrieved data from essential tables, views and function.
-- **Date Table Creation**: Implemented an **M language** script to generate a comprehensive date dimension table for enhanced time-based analysis.
-- **Data Transformation**: Cleaned and prepared the dataset by renaming tables and columns and removing unused data.
-- **Data Modeling**: Structured data into a star schema for efficient querying and analysis.
-- **Measures**: Created a set of critical measures for analysis, including the use of USERELATIONSHIP function to manage Inactive Relationships in a Role-Playing Dimension.
-- **Visualization**: Developed insightful dashboards to highlight trends, sales performance, and key business metrics.
+1. **Data Source**: Utilized the Adventure Works OLTP database with Direct Query.
+2. **Data Extraction**: Retrieved data from essential tables, views and function.
+3. **Date Table Creation**: Implemented an **M language** script to generate a comprehensive date dimension table for enhanced time-based analysis.
+4. **Data Transformation**: Cleaned and prepared the dataset by renaming tables and columns and removing unused data.
+5. **Data Modeling**: Structured data into a star schema for efficient querying and analysis.
+6. **Measures**: Created a set of critical measures for analysis, including the use of USERELATIONSHIP function to manage Inactive Relationships in a Role-Playing Dimension.
+7. **Visualization**: Developed insightful dashboards to highlight trends, sales performance, and key business metrics.
