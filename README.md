@@ -1,4 +1,4 @@
-# AdventureWorks-OLTP-Sales-Overview-using
+# AdventureWorks-OLTP-Sales-Overview
 
 ## Project Overview
 This repository contains a Power BI project using the Adventure Works Database. The project aims to extract, model, and analyze sales data to provide actionable insights for business decision-making.
