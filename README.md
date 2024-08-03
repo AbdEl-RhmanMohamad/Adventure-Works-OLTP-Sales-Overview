@@ -115,6 +115,11 @@ The Power BI dashboard created from this project provides insights into various 
 
 ![Dashboard 2](https://github.com/user-attachments/assets/d712fe4d-ca89-4d81-b3c4-042a9f418a68)
 
+![Dashboard 3](https://github.com/user-attachments/assets/2ae7f408-2117-4859-9978-e04d1572267f)
+
+![Dashboard 4](https://github.com/user-attachments/assets/f87191be-95ae-461f-ae90-b678fe40eaf3)
+
+
 ## Conclusion
 This Power BI project demonstrates the comprehensive process of extracting, modeling, and analyzing sales data from the Adventure Works database. Key points include:
 
